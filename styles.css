@@ -12,6 +12,16 @@ header {
     background-color: rgb(71, 71, 71);
 }
 
+ul {
+    list-style-type: none;
+    float: left;
+}
+
+ul a{
+    display: block;
+    color: white;
+}
+
 .container {
     margin: 0 20%;
 }
